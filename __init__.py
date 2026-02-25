@@ -9,6 +9,7 @@ PROJECT_META = {
     'category': 'Computer Vision',
     'nav_group': 'Machine Learning',
     'tags': ['tensorflow.js', 'neural network', 'canvas'],
+    'screenshot': 'digit_recognition.png',
 }
 
 bp = Blueprint(
