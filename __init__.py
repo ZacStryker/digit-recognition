@@ -5,7 +5,7 @@ PROJECT_META = {
     'name': 'Digit Recognition',
     'description': 'Draw a digit and watch AI identify it in real-time using a neural network running entirely in your browser.',
     'icon': 'draw',
-    'color': '#2563eb',
+    'color': '#0ea5e9',
     'category': 'Computer Vision',
     'nav_group': 'Machine Learning',
     'tags': ['tensorflow.js', 'neural network', 'canvas'],
